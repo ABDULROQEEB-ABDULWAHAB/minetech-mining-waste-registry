@@ -3,8 +3,8 @@
 Pan-African MineTech Exploration Technology Pre-Incubation Programme 2026
 Nasarawa State University Keffi Mine-Tech UniPod
 
-Team: [Team name] Â· Materials and Metallurgical Engineering (3), Computer Engineering (1), Petroleum and Gas Engineering (1)
-Contact: [name / email]
+Team:  MineWaste Reuse· Materials and Metallurgical Engineering (3), Computer Engineering (1), Petroleum and Gas Engineering (1)
+Contact: Adelani Titilayo Kelechi/adelanititilayo07@gmail.com
 
 ## The problem
 
@@ -16,7 +16,7 @@ Mining waste and tailings in Nigeria are rarely sampled, characterised or record
 2. Register and flag. Every sample goes into a searchable registry (source, location, material, authorisation, results). Each sample gets screening flags: hazard, recovery potential, reuse candidate or insufficient data.
 3. Prove one pathway. If a sample passes screening, cast small sample blocks and compare them with conventional control blocks for strength, durability and water absorption where facilities permit.
 
-Safety principle: no material is assumed safe until tested.** A "reuse candidate" flag only means no screening exceedance was found. It is never a safety clearance.
+Safety principle: no material is assumed safe until tested. A "reuse candidate" flag only means no screening exceedance was found. It is never a safety clearance.
 
 ## How this maps to the programme brief
 
